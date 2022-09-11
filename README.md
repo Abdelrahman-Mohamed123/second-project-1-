@@ -1,2 +1,2 @@
-# second-project-1-
+# second-project-1
 project using css and html
